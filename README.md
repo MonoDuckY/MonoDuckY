@@ -1,16 +1,27 @@
 <div align="center">
 
-  # ❄️ Hi there, I'm Việt Đức (DuckY)! 👋
-  
-  **Software Engineering Student @ FPT University Hanoi**  
-  *Bridging the gap between Business Vision, User Experience, and Technical Execution.*
+  <img width="500" height="281" alt="Yoshino Banner GIF" src="https://github.com/user-attachments/assets/520de60d-66e4-4014-a34a-6399bb662e4d" />
 
-  [![Live Showcase](https://img.shields.io/badge/✨_Featured_Space-yoshino--home.vercel.app-00C7B7?style=for-the-badge)](https://yoshino-home.vercel.app)
-  [![Gmail](https://img.shields.io/badge/Email-pvietduc204%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvietduc204@gmail.com)
+  <h1 align="center">DuckY</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Business+Analysis+%26+Project+Management+Enthusiast+%F0%9F%93%8A;Full-Stack+Developer+(Spring+Boot+%7C+React+%7C+Flutter)+%F0%9F%92%BB;Documentation-First+Engineering+%26+UI%2FUX+Lover+%E2%9D%84%EF%B8%8F" alt="Typing SVG" />
+
+  <p align="center">
+    <b>Software Engineering Student @ FPT University Hanoi</b><br/>
+    <i>Bridging the gap between Business Vision, User Experience, and Technical Execution.</i>
+  </p>
+
+  <p align="center">
+    <a href="https://yoshino-home.vercel.app">
+      <img src="https://img.shields.io/badge/✨_Featured_Space-yoshino--home.vercel.app-00C7B7?style=for-the-badge" alt="Live Showcase" />
+    </a>
+    &nbsp;
+    <a href="mailto:pvietduc204@gmail.com">
+      <img src="https://img.shields.io/badge/Email-pvietduc204%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
 
 </div>
-
----
 
 ### 🧭 About Me & Working Philosophy
 
